@@ -1,2 +1,4 @@
 node_modules/
 not-important/
+.env
+.prod.env
